@@ -1,4 +1,4 @@
-# Pizza-Sale-Analysisa
+# Pizza-Sale-Analysis
 KPI' s Requirements 
 
 1.Total Revenue
